@@ -1,2 +1,5 @@
 datasets/logs/
 datasets/Holiday/*.tar.gz
+CBIR/*.pyc
+datasets/*.pyc
+*/__pycache__/
